@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-fxr7se.agrestaweb.org/sitemap.xml
